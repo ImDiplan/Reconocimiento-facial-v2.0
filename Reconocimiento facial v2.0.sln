@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconocimiento facial v2.0", "Reconocimiento facial\Reconocimiento facial v2.0.csproj", "{46E40E95-EF31-4FB7-B899-7007629EC9A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconocimiento facial ld", "Reconocimiento facial\Reconocimiento facial v2.0.csproj", "{46E40E95-EF31-4FB7-B899-7007629EC9A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
